@@ -3,7 +3,7 @@ Hello!
 This directory includes all files necessary to reproduce all outputs for my bios611 clustering HW assignment. It contains:
 
 (1) Dockerfile  
-(2) clustering.R 
+(2) clustering.R  
 (3) clustering.Rmd  
 (4) clustering.html  
 (5) /figures  
